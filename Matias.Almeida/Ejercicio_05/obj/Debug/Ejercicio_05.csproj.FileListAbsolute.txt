@@ -1,0 +1,7 @@
+D:\Ejercicios Progra II\Matias.Almeida\Ejercicio_05\bin\Debug\Ejercicio_05.exe.config
+D:\Ejercicios Progra II\Matias.Almeida\Ejercicio_05\bin\Debug\Ejercicio_05.exe
+D:\Ejercicios Progra II\Matias.Almeida\Ejercicio_05\bin\Debug\Ejercicio_05.pdb
+D:\Ejercicios Progra II\Matias.Almeida\Ejercicio_05\obj\Debug\Ejercicio_05.csprojAssemblyReference.cache
+D:\Ejercicios Progra II\Matias.Almeida\Ejercicio_05\obj\Debug\Ejercicio_05.csproj.CoreCompileInputs.cache
+D:\Ejercicios Progra II\Matias.Almeida\Ejercicio_05\obj\Debug\Ejercicio_05.exe
+D:\Ejercicios Progra II\Matias.Almeida\Ejercicio_05\obj\Debug\Ejercicio_05.pdb
