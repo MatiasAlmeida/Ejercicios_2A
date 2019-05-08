@@ -1,0 +1,10 @@
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\Almeida.Matias.2A.PParcial2018-1\VistaConsola\obj\Debug\VistaConsola.pdb
