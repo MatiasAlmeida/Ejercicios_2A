@@ -1,0 +1,6 @@
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase_04\bin\Debug\Clase_04.dll
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase_04\bin\Debug\Clase_04.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase_04\obj\Debug\Clase04.Entidades.csprojAssemblyReference.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase_04\obj\Debug\Clase04.Entidades.csproj.CoreCompileInputs.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase_04\obj\Debug\Clase_04.dll
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase_04\obj\Debug\Clase_04.pdb

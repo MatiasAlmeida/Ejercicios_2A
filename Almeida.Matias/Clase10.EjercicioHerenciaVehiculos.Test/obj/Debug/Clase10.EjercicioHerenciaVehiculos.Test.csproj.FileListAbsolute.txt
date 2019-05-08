@@ -1,0 +1,10 @@
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\bin\Debug\Clase10.EjercicioHerenciaVehiculos.Test.exe.config
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\bin\Debug\Clase10.EjercicioHerenciaVehiculos.Test.exe
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\bin\Debug\Clase10.EjercicioHerenciaVehiculos.Test.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\bin\Debug\Clase10.Ejercicio_Herencia_Vehiculos.Entidades.dll
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\bin\Debug\Clase10.Ejercicio_Herencia_Vehiculos.Entidades.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\obj\Debug\Clase10.EjercicioHerenciaVehiculos.Test.csprojAssemblyReference.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\obj\Debug\Clase10.EjercicioHerenciaVehiculos.Test.csproj.CoreCompileInputs.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\obj\Debug\Clase10.EjercicioHerenciaVehiculos.Test.csproj.CopyComplete
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\obj\Debug\Clase10.EjercicioHerenciaVehiculos.Test.exe
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase10.EjercicioHerenciaVehiculos.Test\obj\Debug\Clase10.EjercicioHerenciaVehiculos.Test.pdb

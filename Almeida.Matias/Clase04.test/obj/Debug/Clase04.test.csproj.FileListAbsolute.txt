@@ -1,0 +1,10 @@
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\bin\Debug\Clase04.test.exe.config
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\bin\Debug\Clase04.test.exe
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\bin\Debug\Clase04.test.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\bin\Debug\Clase_04.dll
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\bin\Debug\Clase_04.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\obj\Debug\Clase04.test.csprojAssemblyReference.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\obj\Debug\Clase04.test.csproj.CoreCompileInputs.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\obj\Debug\Clase04.test.csproj.CopyComplete
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\obj\Debug\Clase04.test.exe
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.test\obj\Debug\Clase04.test.pdb

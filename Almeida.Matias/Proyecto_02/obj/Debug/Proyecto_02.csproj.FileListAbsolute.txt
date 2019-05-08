@@ -1,0 +1,7 @@
+D:\AlmeidaMatias\Almeida.Matias\Proyecto_02\obj\Debug\Proyecto_02.csprojAssemblyReference.cache
+D:\AlmeidaMatias\Almeida.Matias\Proyecto_02\obj\Debug\Proyecto_02.csproj.CoreCompileInputs.cache
+D:\AlmeidaMatias\Almeida.Matias\Proyecto_02\bin\Debug\Proyecto_02.exe.config
+D:\AlmeidaMatias\Almeida.Matias\Proyecto_02\bin\Debug\Proyecto_02.exe
+D:\AlmeidaMatias\Almeida.Matias\Proyecto_02\bin\Debug\Proyecto_02.pdb
+D:\AlmeidaMatias\Almeida.Matias\Proyecto_02\obj\Debug\Proyecto_02.exe
+D:\AlmeidaMatias\Almeida.Matias\Proyecto_02\obj\Debug\Proyecto_02.pdb

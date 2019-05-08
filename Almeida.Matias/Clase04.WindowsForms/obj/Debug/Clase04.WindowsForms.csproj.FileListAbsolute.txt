@@ -1,0 +1,13 @@
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.exe.config
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.exe
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\bin\Debug\Clase04.WindowsForms.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csprojAssemblyReference.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.Properties.Resources.resources
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.GenerateResource.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.CoreCompileInputs.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.exe
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.Form1.resources
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\bin\Debug\Clase_04.dll
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\bin\Debug\Clase_04.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Clase04.WindowsForms\obj\Debug\Clase04.WindowsForms.csproj.CopyComplete

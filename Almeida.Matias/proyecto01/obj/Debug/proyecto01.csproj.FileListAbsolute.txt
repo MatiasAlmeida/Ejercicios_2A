@@ -1,0 +1,14 @@
+D:\AlmeidaMatias\Almeida.Matias\proyecto01\bin\Debug\proyecto01.exe.config
+D:\AlmeidaMatias\Almeida.Matias\proyecto01\bin\Debug\proyecto01.exe
+D:\AlmeidaMatias\Almeida.Matias\proyecto01\bin\Debug\proyecto01.pdb
+D:\AlmeidaMatias\Almeida.Matias\proyecto01\obj\Debug\proyecto01.csprojAssemblyReference.cache
+D:\AlmeidaMatias\Almeida.Matias\proyecto01\obj\Debug\proyecto01.csproj.CoreCompileInputs.cache
+D:\AlmeidaMatias\Almeida.Matias\proyecto01\obj\Debug\proyecto01.exe
+D:\AlmeidaMatias\Almeida.Matias\proyecto01\obj\Debug\proyecto01.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\proyecto01\bin\Debug\proyecto01.exe.config
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\proyecto01\bin\Debug\proyecto01.exe
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\proyecto01\bin\Debug\proyecto01.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\proyecto01\obj\Debug\proyecto01.csprojAssemblyReference.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\proyecto01\obj\Debug\proyecto01.csproj.CoreCompileInputs.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\proyecto01\obj\Debug\proyecto01.exe
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\proyecto01\obj\Debug\proyecto01.pdb

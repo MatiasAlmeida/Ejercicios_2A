@@ -1,0 +1,5 @@
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Libreria\bin\Debug\Libreria.dll
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Libreria\bin\Debug\Libreria.pdb
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Libreria\obj\Debug\Libreria.dll
+E:\Ejercicios de Progra II (PC de facultad)\Almeida.Matias\Libreria\obj\Debug\Libreria.pdb
