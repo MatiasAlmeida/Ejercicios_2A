@@ -1,0 +1,10 @@
+D:\VisualStudio\Almeida.Matias\TestCocina\bin\Debug\TestCocina.exe.config
+D:\VisualStudio\Almeida.Matias\TestCocina\bin\Debug\TestCocina.exe
+D:\VisualStudio\Almeida.Matias\TestCocina\bin\Debug\TestCocina.pdb
+D:\VisualStudio\Almeida.Matias\TestCocina\bin\Debug\Entidades.dll
+D:\VisualStudio\Almeida.Matias\TestCocina\bin\Debug\Entidades.pdb
+D:\VisualStudio\Almeida.Matias\TestCocina\obj\Debug\TestCocina.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Almeida.Matias\TestCocina\obj\Debug\TestCocina.csproj.CopyComplete
+D:\VisualStudio\Almeida.Matias\TestCocina\obj\Debug\TestCocina.exe
+D:\VisualStudio\Almeida.Matias\TestCocina\obj\Debug\TestCocina.pdb
+D:\VisualStudio\Almeida.Matias\TestCocina\obj\Debug\TestCocina.csprojAssemblyReference.cache

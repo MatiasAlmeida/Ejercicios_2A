@@ -1,0 +1,10 @@
+D:\VisualStudio\Almeida.Matias\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\Almeida.Matias\Test\bin\Debug\Test.exe
+D:\VisualStudio\Almeida.Matias\Test\bin\Debug\Test.pdb
+D:\VisualStudio\Almeida.Matias\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\Almeida.Matias\Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\Almeida.Matias\Test\obj\Debug\TestAuto.csprojAssemblyReference.cache
+D:\VisualStudio\Almeida.Matias\Test\obj\Debug\TestAuto.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Almeida.Matias\Test\obj\Debug\TestAuto.csproj.CopyComplete
+D:\VisualStudio\Almeida.Matias\Test\obj\Debug\Test.exe
+D:\VisualStudio\Almeida.Matias\Test\obj\Debug\Test.pdb

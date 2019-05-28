@@ -1,0 +1,10 @@
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\bin\Debug\TestDepositoGenerico.exe.config
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\bin\Debug\TestDepositoGenerico.exe
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\bin\Debug\TestDepositoGenerico.pdb
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\bin\Debug\Entidades.dll
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\bin\Debug\Entidades.pdb
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\obj\Debug\TestDepositoGenerico.csprojAssemblyReference.cache
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\obj\Debug\TestDepositoGenerico.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\obj\Debug\TestDepositoGenerico.csproj.CopyComplete
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\obj\Debug\TestDepositoGenerico.exe
+D:\VisualStudio\Almeida.Matias\TestDepositoGenerico\obj\Debug\TestDepositoGenerico.pdb
