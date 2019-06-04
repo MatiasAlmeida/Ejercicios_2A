@@ -1,0 +1,6 @@
+D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\bin\Debug\Entidades.Clase21.dll
+D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\bin\Debug\Entidades.Clase21.pdb
+D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.csprojAssemblyReference.cache
+D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.dll
+D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.pdb

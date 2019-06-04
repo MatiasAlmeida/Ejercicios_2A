@@ -1,0 +1,10 @@
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\obj\Debug\Test.Clase21.csprojAssemblyReference.cache
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\obj\Debug\Test.Clase21.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\bin\Debug\Test.Clase21.exe.config
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\bin\Debug\Test.Clase21.exe
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\bin\Debug\Test.Clase21.pdb
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\bin\Debug\Entidades.Clase21.dll
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\bin\Debug\Entidades.Clase21.pdb
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\obj\Debug\Test.Clase21.csproj.CopyComplete
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\obj\Debug\Test.Clase21.exe
+D:\VisualStudio\Entidades.Clase21\Test.Clase21\obj\Debug\Test.Clase21.pdb
