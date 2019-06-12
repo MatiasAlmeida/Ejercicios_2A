@@ -26,7 +26,7 @@ namespace AccesoDatos.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAB5PC08\\SQLEXPRESS;Initial Catalog=Padron;Integrated Security=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAB5PC07\\SQLEXPRESS;Initial Catalog=Padron;Integrated Security=True")]
         public string Conexion_bd {
             get {
                 return ((string)(this["Conexion_bd"]));

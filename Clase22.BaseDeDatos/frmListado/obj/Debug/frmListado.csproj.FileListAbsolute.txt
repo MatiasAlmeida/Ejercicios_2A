@@ -1,0 +1,14 @@
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\bin\Debug\frmListado.exe.config
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\bin\Debug\frmListado.exe
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\bin\Debug\frmListado.pdb
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\bin\Debug\AccesoDatos.dll
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\bin\Debug\AccesoDatos.pdb
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\bin\Debug\AccesoDatos.dll.config
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\obj\Debug\frmListado.csprojAssemblyReference.cache
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\obj\Debug\frmListado.frmListado.resources
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\obj\Debug\frmListado.Properties.Resources.resources
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\obj\Debug\frmListado.csproj.GenerateResource.cache
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\obj\Debug\frmListado.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\obj\Debug\frmListado.csproj.CopyComplete
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\obj\Debug\frmListado.exe
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\frmListado\obj\Debug\frmListado.pdb

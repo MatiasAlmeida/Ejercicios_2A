@@ -9,3 +9,14 @@ D:\VisualStudio\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.cs
 D:\VisualStudio\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CopyComplete
 D:\VisualStudio\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.exe
 D:\VisualStudio\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.pdb
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.exe.config
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.exe
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\bin\Debug\TestBaseDeDatos.pdb
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\bin\Debug\AccesoDatos.dll
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\bin\Debug\AccesoDatos.pdb
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\bin\Debug\AccesoDatos.dll.config
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csprojAssemblyReference.cache
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.csproj.CopyComplete
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.exe
+D:\VisualStudio\Almeida.Matias\Repositorios\Ejercicios_2A\Clase22.BaseDeDatos\TestBaseDeDatos\obj\Debug\TestBaseDeDatos.pdb
