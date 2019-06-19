@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using Entidades;
 
 namespace FrmTest
 {
@@ -21,12 +22,12 @@ namespace FrmTest
             this.comboBox1.Items.Add(ETipoManejador.Ambos);
         }     
 
-        public void EmpleadoMejorado_LimiteSueldo(Entidades.EmpleadoMejorado e, Entidades.EmpleadoSueldoArgs a)
+        public void EmpleadoMejorado_LimiteSueldo(EmpleadoMejorado e, EmpleadoSueldoArgs a)
         {
             MessageBox.Show(e.Nombre + " - " + e.Legajo.ToString() + "\nSe le quizo asignar el sueldo: " + a.Sueldo.ToString());
         }
 
-        public void EmpleadoMejorado_Log_LimiteSueldo(Entidades.EmpleadoMejorado e, Entidades.EmpleadoSueldoArgs a)
+        public void EmpleadoMejorado_Log_LimiteSueldo(EmpleadoMejorado e, EmpleadoSueldoArgs a)
         {
             try
             {
@@ -45,7 +46,7 @@ namespace FrmTest
         {
             if(this.textBox1.Text != "" && this.textBox2.Text != "" && this.textBox3.Text != "" && comboBox1.SelectedItem != null)
             {
-                Entidades.EmpleadoMejorado emp = new Entidades.EmpleadoMejorado();
+                EmpleadoMejorado emp = new EmpleadoMejorado();
 
                 switch ((ETipoManejador)comboBox1.SelectedItem)
                 {
