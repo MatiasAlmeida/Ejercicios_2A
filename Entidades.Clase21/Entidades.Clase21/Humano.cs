@@ -18,7 +18,7 @@ namespace Entidades.Clase21
         public int Dni
         {
             get { return this._dni; }
-            set { this._dni = 13452456; }
+            set { this._dni = value; }
         }
 
         public override string ToString()

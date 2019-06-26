@@ -44,11 +44,11 @@ namespace FrmTest
 
         private void btnEmpleado_Click(object sender, EventArgs e)
         {
-            if(this.textBox1.Text != "" && this.textBox2.Text != "" && this.textBox3.Text != "" && comboBox1.SelectedItem != null)
+            if(this.textBox1.Text != "" && this.textBox2.Text != "" && this.textBox3.Text != "" && this.comboBox1.SelectedItem != null)
             {
                 EmpleadoMejorado emp = new EmpleadoMejorado();
 
-                switch ((ETipoManejador)comboBox1.SelectedItem)
+                switch ((ETipoManejador)this.comboBox1.SelectedItem)
                 {
                     case ETipoManejador.LimiteSueldo:
                         emp._LimiteSueldo += new DelSueldo(EmpleadoMejorado_LimiteSueldo);

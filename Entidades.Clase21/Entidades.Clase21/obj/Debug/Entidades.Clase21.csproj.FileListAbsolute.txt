@@ -4,3 +4,9 @@ D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.
 D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.dll
 D:\VisualStudio\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.pdb
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\MiRepositorio\Ejercicios_2A\Entidades.Clase21\Entidades.Clase21\bin\Debug\Entidades.Clase21.dll
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\MiRepositorio\Ejercicios_2A\Entidades.Clase21\Entidades.Clase21\bin\Debug\Entidades.Clase21.pdb
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\MiRepositorio\Ejercicios_2A\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.csprojAssemblyReference.cache
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\MiRepositorio\Ejercicios_2A\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\MiRepositorio\Ejercicios_2A\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.dll
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\MiRepositorio\Ejercicios_2A\Entidades.Clase21\Entidades.Clase21\obj\Debug\Entidades.Clase21.pdb

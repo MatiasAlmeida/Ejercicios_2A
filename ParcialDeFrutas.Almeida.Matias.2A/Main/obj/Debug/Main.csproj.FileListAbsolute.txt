@@ -1,0 +1,10 @@
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\bin\Debug\Main.exe.config
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\bin\Debug\Main.exe
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\bin\Debug\Main.pdb
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\bin\Debug\Entidades.dll
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\bin\Debug\Entidades.pdb
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\obj\Debug\Main.exe
+C:\Users\mati_\source\repos\ParcialDeFrutas.Almeida.Matias.2A\Main\obj\Debug\Main.pdb

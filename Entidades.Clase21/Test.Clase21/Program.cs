@@ -14,22 +14,29 @@ namespace Test.Clase21
         static void Main(string[] args)
         {
             Humano h1 = new Humano();
+            h1.Dni = 2412523;
             Persona p1 = new Persona("Rodrigo", "Alvarez");
+            p1.Dni = 23451;
             //Persona p2 = new Persona("Chicho", "Benitez");
             Profesor prof1 = new Profesor();
+            prof1.Dni = 12425124;
+            prof1.Titulo = "pepino";
             Alumno a1 = new Alumno();
+            a1.Dni = 123151231;
+            a1.Legajo = 1234;
             List<Humano> lista = new List<Humano>();
             lista.Add(h1);
             lista.Add(p1);
             lista.Add(prof1);
             lista.Add(a1);
+            string path = AppDomain.CurrentDomain.BaseDirectory;
+            Console.WriteLine(path);
             Program.SerializarAlumno(a1);
             Program.SerializarLista(lista);
+            prof1.SerializarXML();
 
             Console.WriteLine(Program.DeserializarAlumno().ToString());
             Console.ReadKey();
-
-
            
         }
 
@@ -38,7 +45,7 @@ namespace Test.Clase21
             try
             {
                 XmlSerializer ser = new XmlSerializer(typeof(Alumno));
-                StreamWriter archivo = new StreamWriter("D:/VisualStudio/Almeida.Matias" + "@arhivo.xml");
+                StreamWriter archivo = new StreamWriter("C:/Users/mati_/Desktop/Programacion II - Clases y contenido/MiRepositorio/Ejercicios_2A/Entidades.Clase21" + "@arhivo.xml");
                 ser.Serialize(archivo,a);
                 archivo.Close();
                 return true;
@@ -54,7 +61,7 @@ namespace Test.Clase21
 
         public static Alumno DeserializarAlumno()
         {
-            StreamReader archivo = new StreamReader("D:/VisualStudio/Almeida.Matias" + "@arhivo.xml");
+            StreamReader archivo = new StreamReader("C:/Users/mati_/Desktop/Programacion II - Clases y contenido/MiRepositorio/Ejercicios_2A/Entidades.Clase21" + "@arhivo.xml");
             XmlSerializer ser = new XmlSerializer(typeof(Alumno));
             Alumno aux;
 
@@ -68,13 +75,10 @@ namespace Test.Clase21
 
         public static void SerializarLista(List<Humano> lista)
         {
-            StreamWriter archivo = new StreamWriter("D:/VisualStudio/Almeida.Matias" + "@otroArhivo.xml");
-            XmlSerializer ser = new XmlSerializer(typeof(Humano));
+            StreamWriter archivo = new StreamWriter("C:/Users/mati_/Desktop/Programacion II - Clases y contenido/MiRepositorio/Ejercicios_2A/Entidades.Clase21" + "@otroArhivo.xml");
+            XmlSerializer ser = new XmlSerializer(typeof(List<Humano>));
 
-            foreach (Humano item in lista)
-            {
-                ser.Serialize(archivo,item);
-            }
+            ser.Serialize(archivo, lista);
 
             archivo.Close();
         }

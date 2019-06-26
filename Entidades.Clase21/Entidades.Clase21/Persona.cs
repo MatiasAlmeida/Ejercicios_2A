@@ -18,6 +18,18 @@ namespace Entidades.Clase21
 
         }
 
+        public string Apellido
+        {
+            get { return this.apellido; }
+            set { this.apellido = value; }
+        }
+
+        public string Nombre
+        {
+            get { return this.nombre; }
+            set { this.nombre = value; }
+        }
+
         public Persona(string nombre, string apellido)
         {
             this.apellido = apellido;

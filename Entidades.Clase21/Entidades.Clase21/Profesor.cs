@@ -13,7 +13,7 @@ namespace Entidades.Clase21
         public string Titulo
         {
             get { return this._titulo; }
-            set { this._titulo = "Ingeniero"; }
+            set { this._titulo = value; }
         }
 
         public override string ToString()

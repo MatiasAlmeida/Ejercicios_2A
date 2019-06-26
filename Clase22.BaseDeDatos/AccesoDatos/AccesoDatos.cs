@@ -101,7 +101,7 @@ namespace AccesoDatos
             this._comando.CommandText = "UPDATE Padron.dbo.Personas" +
                                         "SET nombre = '" + a.nombre + "'," +
                                             "apellido = '" + a.apellido + "'," +
-                                            "edad = " + a.edad.ToString() +
+                                            "edad = " + a.edad.ToString() + 
                                         "WHERE id = 7";
 
             try
