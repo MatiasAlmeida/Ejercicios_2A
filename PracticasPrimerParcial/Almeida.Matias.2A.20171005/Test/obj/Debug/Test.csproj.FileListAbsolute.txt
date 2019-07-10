@@ -1,0 +1,12 @@
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\bin\Debug\Test.exe.config
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\bin\Debug\Test.exe
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\bin\Debug\Test.pdb
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\bin\Debug\EntidadFinanciera.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\bin\Debug\PrestamosPersonales.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\bin\Debug\EntidadFinanciera.pdb
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\bin\Debug\PrestamosPersonales.pdb
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\obj\Debug\Test.exe
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\Test\obj\Debug\Test.pdb

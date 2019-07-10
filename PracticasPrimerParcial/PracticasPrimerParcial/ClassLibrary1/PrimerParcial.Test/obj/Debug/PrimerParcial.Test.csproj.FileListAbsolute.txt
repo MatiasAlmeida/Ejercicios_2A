@@ -1,0 +1,10 @@
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\bin\Debug\PrimerParcial.Test.exe.config
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\bin\Debug\PrimerParcial.Test.exe
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\bin\Debug\PrimerParcial.Test.pdb
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\bin\Debug\ClassLibrary1.dll
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\bin\Debug\ClassLibrary1.pdb
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\obj\Debug\PrimerParcial.Test.csprojAssemblyReference.cache
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\obj\Debug\PrimerParcial.Test.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\obj\Debug\PrimerParcial.Test.csproj.CopyComplete
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\obj\Debug\PrimerParcial.Test.exe
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\PrimerParcial.Test\obj\Debug\PrimerParcial.Test.pdb

@@ -1,0 +1,6 @@
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\ClassLibrary1\obj\Debug\ModeloParcial.Mascota.Entidades.csprojAssemblyReference.cache
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\ClassLibrary1\obj\Debug\ModeloParcial.Mascota.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\mati_\Desktop\Programacion II - Clases y contenido\Guias, ejercicios y ejemplos\Ejercicios\PracticasPrimerParcial\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

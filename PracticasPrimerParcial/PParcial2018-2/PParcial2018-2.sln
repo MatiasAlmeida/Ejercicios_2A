@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{524BA4B4-0E35-4F86-BD3A-8342C816DD8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaConsola", "VistaConsola\VistaConsola.csproj", "{A6D40082-323A-4D62-8E5A-9A4AA36392C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaForm", "VistaForm\VistaForm.csproj", "{D9D56EA5-C657-4B56-9F4F-999475BA1A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524BA4B4-0E35-4F86-BD3A-8342C816DD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524BA4B4-0E35-4F86-BD3A-8342C816DD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524BA4B4-0E35-4F86-BD3A-8342C816DD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524BA4B4-0E35-4F86-BD3A-8342C816DD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D40082-323A-4D62-8E5A-9A4AA36392C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D40082-323A-4D62-8E5A-9A4AA36392C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D40082-323A-4D62-8E5A-9A4AA36392C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D40082-323A-4D62-8E5A-9A4AA36392C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D56EA5-C657-4B56-9F4F-999475BA1A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D56EA5-C657-4B56-9F4F-999475BA1A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D56EA5-C657-4B56-9F4F-999475BA1A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D56EA5-C657-4B56-9F4F-999475BA1A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D28DC6-FC9D-4972-8203-3A6F8BC47110}
+	EndGlobalSection
+EndGlobal

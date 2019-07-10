@@ -1,0 +1,9 @@
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\bin\Debug\PrestamosPersonales.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\bin\Debug\PrestamosPersonales.pdb
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CopyComplete
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb

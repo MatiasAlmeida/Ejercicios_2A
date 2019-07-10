@@ -1,0 +1,6 @@
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\PrestamosPersonales\bin\Debug\PrestamosPersonales.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\PrestamosPersonales\bin\Debug\PrestamosPersonales.pdb
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\PrestamosPersonales\obj\Debug\PrestamosPersonales.csprojAssemblyReference.cache
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\PrestamosPersonales\obj\Debug\PrestamosPersonales.csproj.CoreCompileInputs.cache
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\PrestamosPersonales\obj\Debug\PrestamosPersonales.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20171005\PrestamosPersonales\obj\Debug\PrestamosPersonales.pdb

@@ -1,0 +1,6 @@
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20181009\Entidades\bin\Debug\Entidades.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20181009\Entidades\bin\Debug\Entidades.pdb
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20181009\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20181009\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20181009\Entidades\obj\Debug\Entidades.dll
+C:\Users\mati_\source\repos\Almeida.Matias.2A.20181009\Entidades\obj\Debug\Entidades.pdb
