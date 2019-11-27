@@ -1,0 +1,1 @@
+﻿public delegate void PrecioExcedido(double precioTotal);

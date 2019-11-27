@@ -1,0 +1,6 @@
+C:\Users\mati_\source\repos\Segundo.Parcial\Segundo.Parcial.Facil\bin\Debug\Segundo.Parcial.Facil.dll
+C:\Users\mati_\source\repos\Segundo.Parcial\Segundo.Parcial.Facil\bin\Debug\Segundo.Parcial.Facil.pdb
+C:\Users\mati_\source\repos\Segundo.Parcial\Segundo.Parcial.Facil\obj\Debug\Segundo.Parcial.Facil.csprojAssemblyReference.cache
+C:\Users\mati_\source\repos\Segundo.Parcial\Segundo.Parcial.Facil\obj\Debug\Segundo.Parcial.Facil.csproj.CoreCompileInputs.cache
+C:\Users\mati_\source\repos\Segundo.Parcial\Segundo.Parcial.Facil\obj\Debug\Segundo.Parcial.Facil.dll
+C:\Users\mati_\source\repos\Segundo.Parcial\Segundo.Parcial.Facil\obj\Debug\Segundo.Parcial.Facil.pdb

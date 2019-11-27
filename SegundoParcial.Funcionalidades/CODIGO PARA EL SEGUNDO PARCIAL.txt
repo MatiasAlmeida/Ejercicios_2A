@@ -1,0 +1,144 @@
+Base de datos(Traer, Agregar, Eliminar, Modificar):
+
+
+	Traer tabla y mostrar:
+	//DataTable dt = new DataTable(); Da lo mismo hacerlo con dataTable que de la otra forma
+	StringBuilder sb = new StringBuilder();
+	SqlConnection bdConnection = new SqlConnection(Properties.Settings.Default.Conexion_bd);
+	SqlCommand command = new SqlCommand();
+        command.Connection = bdConnection;
+        command.CommandType = CommandType.Text;
+        command.CommandText = "SELECT id,campo1,campo2,campo3 FROM nombreBaseDeDatos.dbo.nombreTabla";
+
+        try
+        {
+     	    bdConnection.Open();
+            SqlDataReader dataReader = command.ExecuteReader();
+            //dt.Load(dataReader);
+
+            /*foreach(DataRow item in dt.Rows)
+            {
+                sb.AppendLine("ID: " + item["id"].ToString()
+                    + "\nNOMBRE: " + item["nombre"].ToString()
+                    + "\nPESO: " + item["peso"].ToString()
+                    + "\nPRECIO: " + item["precio"].ToString());
+            }*/
+            while (dataReader.Read())
+            {
+                sb.AppendLine("ID: " + ((int)dataReader["id"]).ToString() 
+                    + "\nNOMBRE: " + (string)dataReader["nombre"] 
+                    + "\nPESO: " + ((double)dataReader["peso"]).ToString()
+                    + "\nPRECIO: " + ((double)dataReader["precio"]).ToString());
+            }
+        }
+        catch(Exception e)
+        {
+            MessageBox.Show(e.Message);
+        }
+        finally
+        {
+            bdConnection.Close();
+        }
+
+        return sb.ToString();
+
+	Agregar:
+	System.Globalization.CultureInfo customCulture = (System.Globalization.CultureInfo)System.Threading.Thread.CurrentThread.CurrentCulture.Clone();
+        customCulture.NumberFormat.NumberDecimalSeparator = ".";
+
+        System.Threading.Thread.CurrentThread.CurrentCulture = customCulture;
+        bool flag = false;
+        StringBuilder sb = new StringBuilder();
+        SqlConnection bdConnection = new SqlConnection(Properties.Settings.Default.Conexion_bd);
+        SqlCommand command = new SqlCommand();
+        command.Connection = bdConnection;
+        command.CommandType = CommandType.Text;
+        command.CommandText = "INSERT INTO nombreBaseDeDatos.dbo.nombreTabla (campo1,campo2,campo3) VALUES" +
+                              "('" + thisClase._manzana.Nombre + "'," + thisClase._manzana.Peso.ToString() + "," 
+                              + (thisClase.c_manzanas.PrecioTotal/thisClase.c_manzanas.Elementos.Count).ToString() + "),"
+                              + "('" + thisClase._banana.Nombre + "'," + thisClase._banana.Peso.ToString() + ","
+                              + (thisClase.c_bananas.PrecioTotal / thisClase.c_bananas.Elementos.Count).ToString() + "),"
+                              + "('" + thisClase._durazno.Nombre + "'," + thisClase._durazno.Peso.ToString() + ","
+                              + (thisClase.c_duraznos.PrecioTotal / thisClase.c_duraznos.Elementos.Count).ToString() + ")";
+
+        try
+        {
+            bdConnection.Open();
+
+            if (command.ExecuteNonQuery() > 0)
+                flag = true;
+        }
+        catch (Exception e)
+        {
+            MessageBox.Show(e.Message);
+        }
+        finally
+        {
+            bdConnection.Close();
+        }
+
+        return flag;
+	
+	Modificar:
+	System.Globalization.CultureInfo customCulture = (System.Globalization.CultureInfo)System.Threading.Thread.CurrentThread.CurrentCulture.Clone();
+        customCulture.NumberFormat.NumberDecimalSeparator = ".";
+
+        System.Threading.Thread.CurrentThread.CurrentCulture = customCulture;
+        bool flag = false;
+        StringBuilder sb = new StringBuilder();
+        SqlConnection bdConnection = new SqlConnection(Properties.Settings.Default.Conexion_bd);
+        SqlCommand command = new SqlCommand();
+        command.Connection = bdConnection;
+        command.CommandType = CommandType.Text;
+        command.CommandText = "UPDATE nombreBaseDeDatos.dbo.nombreTabla" +
+                              "SET campo1 = '" + a.nombre + "'," +
+                                  "campo2 = '" + a.apellido + "'," +
+                                  "campo3 = " + a.edad.ToString() + 
+                              "WHERE id = " + numeroId.ToString();
+
+        try
+        {
+            bdConnection.Open();
+
+            if (command.ExecuteNonQuery() > 0)
+                flag = true;
+        }
+        catch (Exception e)
+        {
+            MessageBox.Show(e.Message);
+        }
+        finally
+        {
+            bdConnection.Close();
+        }
+
+        return flag;
+	
+	Eliminar por ID:
+	bool flag = false;
+        StringBuilder sb = new StringBuilder();
+        SqlConnection bdConnection = new SqlConnection(Properties.Settings.Default.Conexion_bd);
+        SqlCommand command = new SqlCommand();
+        command.Connection = bdConnection;
+        command.CommandType = CommandType.Text;
+        command.CommandText = "DELETE FROM nombreBaseDeDatos.dbo.nombreTabla WHERE id = " + numeroId.ToString();
+
+        try
+        {
+            bdConnection.Open();
+
+            if (command.ExecuteNonQuery() > 0)
+                flag = true;
+        }
+        catch (Exception e)
+        {
+            throw e;
+        }
+        finally
+        {
+            bdConnection.Close();
+        }
+
+        return flag;
+
+	
